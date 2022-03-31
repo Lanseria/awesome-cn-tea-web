@@ -2,7 +2,7 @@
   "name": "awesome-cn-cafe-w",
   "version": "0.0.0",
   "scripts": {
-    "fetch": "git clone https://github.com/Lanseria/awesome-cn-cafe cafe 2> /dev/null || git -C cafe pull",
+    "fetch": "git clone -b tea https://gitee.com/vhik/awesome-cn-share-data cafe 2> /dev/null || git -C cafe pull",
     "data": "node ./scripts/process.mjs",
     "postinstall": "npm run fetch && npm run data",
     "dev": "vite --host 0.0.0.0",

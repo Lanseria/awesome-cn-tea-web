@@ -4,33 +4,33 @@
       <LogoComp />
     </h1>
     <div class="text-sm text-gray-500 my-1 font-light">
-      Data Source
+      数据来源
       <a
         class="text-gray-700 hover:text-gray-900"
-        href="https://github.com/ElaWorkshop/awesome-cn-cafe"
+        href="https://gitee.com/vhik/awesome-cn-share-data"
         target="_blank"
         rel="noreferrer"
-        >Awesome CN Café</a
+        >AwesomeCnShareData(Gitee)</a
       >
     </div>
     <div class="text-sm text-gray-500 my-1 font-light">
-      Updated <span class="text-gray-700">{{ fromNow(BuildTime) }}</span>
+      最近更新 <span class="text-gray-700">{{ fromNow(BuildTime) }}</span>
     </div>
     <div class="text-sm text-gray-500 my-1 font-light">
       Made by
       <a
         class="text-gray-700 hover:text-gray-900"
-        href="https://github.com/antfu"
+        href="https://github.com/lanseria"
         target="_blank"
         rel="noreferrer"
-        >@antfu</a
+        >@爱吃包子的超</a
       >
     </div>
     <div class="text-sm text-gray-500 my-1 font-light">
-      Source code on
+      源代码在
       <a
         class="text-gray-700 hover:text-gray-900"
-        href="hhttps://github.com/antfu/awesome-cn-cafe-web"
+        href="https://github.com/Lanseria/awesome-cn-tea-web"
         target="_blank"
         rel="noreferrer"
         >Github</a
