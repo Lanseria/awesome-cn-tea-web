@@ -1,7 +1,7 @@
 <template>
   <div class="inline-block m-auto font-light">
     <Icon
-      icon="carbon:passenger-drinks"
+      icon="icon-park-outline:tea-drink"
       class="inline-block mr-2 text-xl -mt-1 text-gray-500"
     />
     <div class="inline-block m-auto">

@@ -4,6 +4,9 @@
       <LogoComp />
     </h1>
     <div class="text-sm text-gray-500 my-1 font-light">
+      用户分享网速良好的咖啡奶茶店
+    </div>
+    <div class="text-sm text-gray-500 my-1 font-light">
       数据来源
       <a
         class="text-gray-700 hover:text-gray-900"
@@ -24,6 +27,16 @@
         target="_blank"
         rel="noreferrer"
         >@爱吃包子的超</a
+      >
+    </div>
+    <div class="text-sm text-gray-500 my-1 font-light">
+      Fork by
+      <a
+        class="text-gray-700 hover:text-gray-900"
+        href="https://github.com/aufu"
+        target="_blank"
+        rel="noreferrer"
+        >@aufu</a
       >
     </div>
     <div class="text-sm text-gray-500 my-1 font-light">
