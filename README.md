@@ -1,5 +1,7 @@
 # awesome-cn-tea-web
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f0746074-9295-45ee-b302-cfa11aafe75b/deploy-status)](https://app.netlify.com/sites/cn-tea/deploys)
+
 更新数据
 
 git clone -b tea https://gitee.com/vhik/awesome-cn-share-data

@@ -9,6 +9,7 @@
         :style="{
           color,
         }"
+        title="net speed"
         @click="() => setFilter(color)"
       >
         <Icon class="pointer-events-none" :icon="ColorToIcon[color]" />
