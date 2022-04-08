@@ -16,12 +16,12 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Get source sha
-        run: curl https://gitee.com/api/v5/repos/vhik/awesome-cn-share-data/branches/tea --silent | grep -Po '"sha":".*?"' | head -n1 > sha
+        run: curl https://api.github.com/repos/Lanseria/awesome-cn-data/branches/tea --silent | grep "sha" | head -n1 > sha 
 
       - name: Update source sha
         uses: EndBug/add-and-commit@v4
         with:
-          message: "chore: 每日更新 gitee 分支为 tea 的数据，存 sha"
+          message: "chore: 每日更新 github 分支为 tea 的数据，存 sha"
           add: "sha"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
