@@ -10,12 +10,24 @@
       数据来源
       <a
         class="text-gray-700 hover:text-gray-900"
-        href="https://gitee.com/vhik/awesome-cn-share-data"
+        href="https://github.com/Lanseria/awesome-cn-data/tree/tea"
         target="_blank"
         rel="noreferrer"
-        >AwesomeCnShareData(Gitee)</a
+        >AwesomeCnData(Github)</a
       >
     </div>
+
+    <div text="sm gray-500" m="y1" font-light>
+      国内数据提交地址
+      <a
+        class="text-gray-700 hover:text-gray-900"
+        href="https://gitee.com/vhik/awesome-cn-data/tree/tea"
+        target="_blank"
+        rel="noreferrer"
+        >AwesomeCnData(Gitee)</a
+      >
+    </div>
+
     <div class="text-sm text-gray-500 my-1 font-light">
       最近更新 <span class="text-gray-700">{{ fromNow(BuildTime) }}</span>
     </div>
