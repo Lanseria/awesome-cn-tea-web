@@ -17,7 +17,7 @@
       >
     </div>
 
-    <div text="sm gray-500" m="y1" font-light>
+    <div class="text-sm text-gray-500 my-1 font-light">
       国内数据提交地址
       <a
         class="text-gray-700 hover:text-gray-900"
