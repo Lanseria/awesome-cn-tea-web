@@ -18,17 +18,6 @@
     </div>
 
     <div class="text-sm text-gray-500 my-1 font-light">
-      国内数据提交地址
-      <a
-        class="text-gray-700 hover:text-gray-900"
-        href="https://gitee.com/vhik/awesome-cn-data/tree/tea"
-        target="_blank"
-        rel="noreferrer"
-        >AwesomeCnData(Gitee)</a
-      >
-    </div>
-
-    <div class="text-sm text-gray-500 my-1 font-light">
       最近更新 <span class="text-gray-700">{{ fromNow(BuildTime) }}</span>
     </div>
     <div class="text-sm text-gray-500 my-1 font-light">
